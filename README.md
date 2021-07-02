@@ -1,5 +1,5 @@
 # seneca
-Market Distortions  
+Market Distortions and volatility
 
 Reference Work:
 https://www.fooledbyrandomness.com/BTC-QF-appendix.pdf
