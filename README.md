@@ -6,7 +6,7 @@ https://www.fooledbyrandomness.com/BTC-QF-appendix.pdf
 https://www.fooledbyrandomness.com/BTC-QF.pdf
 
 # why
-Relevance in similar content of webpages is the baseline thinking because we do not posses actual earnings to value BTC.
+Relevance in similar content of webpages is the baseline thinking because we do not posses actual returns to value BTC.
 
 Visualisation of headlines affecting asset prices as clusters like the S2F model:
 
