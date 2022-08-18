@@ -6,9 +6,9 @@ https://www.fooledbyrandomness.com/BTC-QF-appendix.pdf
 https://www.fooledbyrandomness.com/BTC-QF.pdf
 
 # why
-Relevance in content of webpages to others.
+Relevance in similar content of webpages is the baseline thinking because we do not posses actual earnings to value BTC.
 
-Visualisation of headlines affecting asset prices as clusters unlike the S2F model:
+Visualisation of headlines affecting asset prices as clusters like the S2F model:
 
 Each of the four identified BTC clusters has a very different S2F-market value combination that seems to be consistent with halvings and changing BTC narratives.
 
