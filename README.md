@@ -8,7 +8,7 @@ https://www.fooledbyrandomness.com/BTC-QF.pdf
 # why
 Relevance in content of webpages to others.
 
-Visualisation of headlines affecting asset prices as our BTC clusters unlike the S2F model:
+Visualisation of headlines affecting asset prices as clusters unlike the S2F model:
 
 Each of the four identified BTC clusters has a very different S2F-market value combination that seems to be consistent with halvings and changing BTC narratives.
 
