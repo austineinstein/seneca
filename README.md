@@ -8,7 +8,7 @@ https://www.fooledbyrandomness.com/BTC-QF.pdf
 # why
 (1) Relevance in similar content of webpages is the baseline thinking for clustering headlines(narratives) visually
 
-(2) Explore any methods of valuing/benchmarking assets because we do not posses actual returns to value BTC.
+(2) Explore any methods of valuing/benchmarking BTC.
 
 Visualisation of headlines affecting asset prices as clusters like the S2F model:
 
