@@ -10,7 +10,7 @@ https://www.fooledbyrandomness.com/BTC-QF.pdf
 
 (2) Explore any methods of valuing/benchmarking BTC.
 
-Visualisation of headlines affecting asset prices as clusters like the S2F model:
+Visualisation of headlines affects asset price clusters like the S2F model:
 
 Each of the four identified BTC clusters has a very different S2F-market value combination that seems to be consistent with halvings and changing BTC narratives.
 
