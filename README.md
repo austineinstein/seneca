@@ -29,5 +29,5 @@ https://github.com/austineinstein/seneca/blob/master/Update001.md
 https://fancradle.substack.com/p/diy-market-research
 
 
-REF: https://medium.com/@100trillionUSD/bitcoin-stock-to-flow-cross-asset-model-50d260feed12
+# REF: https://medium.com/@100trillionUSD/bitcoin-stock-to-flow-cross-asset-model-50d260feed12
 
