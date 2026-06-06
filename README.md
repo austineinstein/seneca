@@ -22,11 +22,12 @@ BTC “E-Gold” (S2F 10.2 and market value $5.6B)
 
 BTC “Financial asset” (S2F 25.1 and market value $114B)
 
-REF: https://medium.com/@100trillionUSD/bitcoin-stock-to-flow-cross-asset-model-50d260feed12
-
 # updates
 https://github.com/austineinstein/seneca/blob/master/Update001.md
 
 # read more 
 https://fancradle.substack.com/p/diy-market-research
+
+
+REF: https://medium.com/@100trillionUSD/bitcoin-stock-to-flow-cross-asset-model-50d260feed12
 
