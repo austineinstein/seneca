@@ -72,7 +72,7 @@ x-api-key: <token>
 
 ### Notes
 
-* Email addresses are normalized to lowercase.
+* Email addresses are normalised to lowercase.
 * Name is optional and may be returned as `null`.
 
 ---
@@ -90,7 +90,7 @@ x-api-key: <token>
     "email": "user@example.com",
     "name": "Optional Name"
   },
-  "message": "Keep this token safe. Use it in Authorization: Bearer <token> or x-api-key on protected routes."
+  "message": "Keep this token safe. Use it in Authorisation: Bearer <token> or x-api-key on protected routes."
 }
 ```
 
@@ -157,7 +157,7 @@ curl -X POST https://www.fancradle.com/api/get-token \
     "email": "contact@fancradle.com",
     "name": "Test User"
   },
-  "message": "Keep this token safe. Use it in Authorization: Bearer <token> or x-api-key on protected routes."
+  "message": "Keep this token safe. Use it in Authorisation: Bearer <token> or x-api-key on protected routes."
 }
 ```
 
