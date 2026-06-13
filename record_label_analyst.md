@@ -143,7 +143,7 @@ Invalid email format:
 ```bash
 curl -X POST https://www.fancradle.com/api/get-token \
   -H "Content-Type: application/json" \
-  -d '{"ema "contact@fancradle.com", "name": "Test User"}'
+  -d '{"email”: "contact@fancradle.com", "name": "Test User"}'
 ```
 
 ### Example Response
