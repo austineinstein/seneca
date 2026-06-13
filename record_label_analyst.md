@@ -143,14 +143,14 @@ Invalid email format:
 ```bash
 curl -X POST https://www.fancradle.com/api/get-token \
   -H "Content-Type: application/json" \
-  -d '{"email":"contact@fancradle.com","name":"Test User"}'
+  -d '{"ema "contact@fancradle.com", "name": "Test User"}'
 ```
 
 ### Example Response
 
 ```json
 {
-  "token": "Euk-qMNWZCky4GU4xCM6q_UzJT6En-YdGuqvV7pIdx8",
+  "token": {Your_Own_Special_Key_To_Query_Our_Website},
   "expires_at": "2026-06-11T09:33:20.830195Z",
   "expires_in_seconds": 86400,
   "user": {
