@@ -56,7 +56,7 @@ You could classify drawdowns into 3 categories:
    * ICO mania
    * 2021 leverage cycle
 
-That taxonomy fits very well with your Soros + Taleb + Spitznagel framework because it separates:
+A framework that supports: 
 
 * endogenous reflexivity (crypto leverage/speculation),
 * from exogenous macro shocks (rates, war, liquidity).
