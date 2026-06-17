@@ -136,7 +136,7 @@ Invalid email format:
 
 ---
 
-# Example Requests
+# Example Request 1
 
 ## Successful Token Generation
 
@@ -161,4 +161,37 @@ curl -X POST https://www.fancradle.com/api/get-token \
 }
 ```
 
+# Example Request 2
+After you have a valid key, generate your first artist brief
+
+# Purpose
+The analyst should:
+
+
+Identify artists worth reviewing.
+
+
+Explain why the artist matters.
+
+
+Provide supporting evidence.
+
+
+Highlight risks.
+
+
+Recommend next actions.
+
+
+## Query A Genre/Subculture Which Interests You
+
+```bash
+
+```
+
+### Example Response
+
+```json
+
+```
 ---
