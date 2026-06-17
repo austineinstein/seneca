@@ -192,6 +192,21 @@ Recommend next actions.
 ### Example Response
 
 ```json
+`get_acts` returns a JSON object with this shape on success:
 
+```json
+{
+  "token": "string",
+  "user": {..
+  },
+  "results": [
+    {
+      "topic": "...",
+      "article_count": 3,
+      "summary": "### {artists list}\n...",
+      "links": "[]"
+    }
+  ]
+}
 ```
 ---
