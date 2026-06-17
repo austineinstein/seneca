@@ -183,7 +183,7 @@ Highlight risks.
 Recommend next actions.
 
 
-## Query A Genre/Subculture Which Interests You
+## Query A Genre/Subculture Interesting To You
 
 ```bash
 
