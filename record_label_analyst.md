@@ -2,9 +2,7 @@
 
 This repository supports record label users requesting a usable access token through the `https://www.base-jobs.vercel.app/api/get-token` 
 
-# Access Token Endpoint &
-
-## Overview
+# Access Token Endpoint & Overview
 
 This document describes the `/api/get-token` endpoint, including its purpose, request/response formats, deployment behavior, and testing procedures.
 
