@@ -15,11 +15,11 @@ The endpoint provides access tokens for authorized users and can be exposed eith
 ## Production Endpoints
 
 ```http
-POST https://www.fancradle.com/api/get-token
-GET https://www.fancradle.com/api/get-acts
-POST https://www.fancradle.com/api/artist-brief
-GET https://www.fancradle.com/api/artist-profile/{artist_id}
-POST https://www.fancradle.com/api/validate-token
+POST https://www.api.fancradle.com/api/get-token
+GET https://www.api.fancradle.com/api/get-acts
+POST https://www.api.fancradle.com/api/artist-brief
+GET https://www.api.fancradle.com/api/artist-profile/{artist_id}
+POST https://www.api.fancradle.com/api/validate-token
 ```
 
 ## Local Development Endpoints
