@@ -13,6 +13,10 @@ Here are 10 of the largest historical Bitcoin drawdowns (peak-to-trough declines
 | 9     | Aug 2012 (~$15)     | Nov 2012 (~$7)      | **-53%** | Early adoption volatility and thin liquidity                    |
 | 10    | Jan 2018 (~$17,000) | Feb 2018 (~$6,000)  | **-65%** | Initial unwinding of 2017 mania                                 |
 
+### August 2026 context
+
+The August 2026 episode is relevant to the reflexivity thesis, but it should not yet be added to the ranked drawdown table: the available notes describe a sharp rebound, short squeeze, and renewed institutional flows rather than a completed peak-to-trough decline. It is better treated as a live recovery from prior weakness until a local peak and trough are established. The episode can then be measured consistently as a percentage drawdown and assessed as a combination of macro-liquidity conditions, regulatory expectations, ETF flows, and leverage-driven feedback.
+
 ### Key observations for your reflexivity thesis
 
 * The largest drawdowns often followed periods of:
@@ -60,3 +64,5 @@ A framework that supports:
 
 * endogenous reflexivity (crypto leverage/speculation),
 * from exogenous macro shocks (rates, war, liquidity).
+
+Find us here: [Get-OSD GitHub Repository](https://github.com/austineinstein/Get-OSD)
