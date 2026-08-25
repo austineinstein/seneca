@@ -33,7 +33,7 @@ This contract defines:
 Protocol participants interface with the framework through defined interaction sequences:
 
 **Protocol Interaction Details & Technical Specifications:**
-* [Protocol Specification & Implementation Guidance](https://x.com/fancradle/status/2090718183686549569?s=46)
+* [Protocol Spec](https://x.com/fancradle/status/2090718183686549569?s=46)
 
 Key protocol specifications include:
 
