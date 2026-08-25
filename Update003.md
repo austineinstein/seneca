@@ -1,15 +1,15 @@
-**Framework Design & Protocol Integration Update—linking core architecture specifications with Real Blues contract governance and protocol interaction patterns (August 2026).**
+**Design & Protocol Integration Update—linking core architecture specifications with Real Blues contract governance and protocol interaction patterns (August 2026).**
 
-### 1. Framework Design Architecture
+### 1. Design Architecture
 
-The Seneca framework integrates multi-layered protocol specifications with smart contract implementations. Core design priorities include:
+The Seneca integrates multi-layered protocol specifications with smart contract implementations. Core design priorities include:
 
-* **Modularity**: Separable concerns across framework layers
-* **Composability**: Framework components work seamlessly together  
+* **Modularity**: Separable concerns across layers
+* **Composability**: Components work seamlessly together  
 * **Reflexivity**: Market dynamics and feedback loops inform protocol behavior
-* **Governance**: Clear protocol evolution pathways via community consensus
+* **Governance**: Clear protocol evolution pathways via consensus
 
-Detailed framework architecture documentation available at:
+Detailed architecture documentation available at:
 
 * [Fancradle/thou Repository](https://github.com/Fancradle/thou) — Core smart contract implementations and protocol artifacts
 * [FanCradProjects/new Repository](https://github.com/fancradprojects/new) — Extended framework ecosystem and integration layers
