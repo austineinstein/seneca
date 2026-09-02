@@ -22,6 +22,8 @@ BTC “E-Gold” (S2F 10.2 and market value $5.6B)
 
 BTC “Financial asset” (S2F 25.1 and market value $114B)
 
+[protocol]
+
 # updates
 https://github.com/austineinstein/seneca/blob/master/Update001.md
 
